@@ -29,3 +29,8 @@ aws lambda publish-layer-version --layer-name AI21_layer --zip-file fileb://lamb
 ```bash
 curl -X POST -H "Content-Type: application/json" -d '{"prompt" : "Tell me a short story about a tiger and lion."}' https://4ztbnapd65jlwjwpo23rxqk3gu0slhcv.lambda-url.us-east-1.on.aws/
 ```
+
+4. Live Endpoint for Postman
+```bash
+https://ruk048xh2b.execute-api.us-east-1.amazonaws.com/devenv?prompt=How many country are in world
+```
