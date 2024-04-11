@@ -1,10 +1,4 @@
 
-# Summary
-1. Enable Jurrasic LLM Model
-1. Use Python code in this repo to create a lambda function
-1. Enable Lambda function with API Gateway
-1. Use Postman to test the API Gateway or use in Salesforce Apex
-
 # Links
 1. [AWS Bedrock Models](https://us-east-1.console.aws.amazon.com/bedrock/home?region=us-east-1#/modelaccess)
 1. [Get information about foundation models](https://docs.aws.amazon.com/bedrock/latest/userguide/models-get-info.html)

@@ -1,5 +1,5 @@
 # imports needed libraries
-import json, os, ai21, boto3
+import json, boto3
 import botocore.config
 
 def lambda_handler(event, context):
